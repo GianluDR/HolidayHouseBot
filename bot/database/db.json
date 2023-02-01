@@ -1,0 +1,262 @@
+[
+  {
+    "codice": "aaa001",
+    "posizione": {
+      "paese": "Bari",
+      "provincia": "Bari",
+      "indirizzo": "via gioacchino toma",
+      "n": "34",
+      "cap": "70125"
+    },
+    "casa": [
+      {
+        "nome": "Bagno",
+        "luci": [
+          "1",
+          "2"
+        ],
+        "lavatrice": "0",
+        "tv": "2"
+      },
+      {
+        "nome": "Salotto",
+        "luci": [
+          "1",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Camera da letto",
+        "luci": [
+          "0",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Cucina",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "2"
+      }
+    ],
+    "riscaldamenti": {
+      "stato": "1",
+      "temperatura": 21
+    }
+  },
+  {
+    "codice": "aaa002",
+    "posizione": {
+      "paese": "Napoli",
+      "provincia": "Napoli",
+      "indirizzo": "Corso Secondigliano",
+      "n": "231",
+      "cap": "80144"
+    },
+    "casa": [
+      {
+        "nome": "Bagno",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "1",
+        "tv": "2"
+      },
+      {
+        "nome": "Salotto",
+        "luci": [
+          "1",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Camera da letto",
+        "luci": [
+          "0",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Cucina",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "2"
+      }
+    ],
+    "riscaldamenti": {
+      "stato": "0",
+      "temperatura": "20"
+    }
+  },
+  {
+    "codice": "aaa003",
+    "posizione": {
+      "paese": "Bari",
+      "provincia": "Bari",
+      "indirizzo": "Via Giuseppe Re David",
+      "n": "177",
+      "cap": "70125"
+    },
+    "casa": [
+      {
+        "nome": "Bagno",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "1",
+        "tv": "2"
+      },
+      {
+        "nome": "Salotto",
+        "luci": [
+          "1",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Camera da letto",
+        "luci": [
+          "0",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Cucina",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "2"
+      }
+    ],
+    "riscaldamenti": {
+      "stato": "0",
+      "temperatura": "20"
+    }
+  },
+  {
+    "codice": "aaa004",
+    "posizione": {
+      "paese": "Roma",
+      "provincia": "Roma",
+      "indirizzo": "Via dei Condotti",
+      "n": "13",
+      "cap": "00187"
+    },
+    "casa": [
+      {
+        "nome": "Bagno",
+        "luci": [
+          "0",
+          "0"
+        ],
+        "lavatrice": "1",
+        "tv": "2"
+      },
+      {
+        "nome": "Salotto",
+        "luci": [
+          "1",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Camera da letto",
+        "luci": [
+          "0",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Cucina",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "2"
+      }
+    ],
+    "riscaldamenti": {
+      "stato": "0",
+      "temperatura": "20"
+    }
+  },
+  {
+    "codice": "aaa005",
+    "posizione": {
+      "paese": "Firenze",
+      "provincia": "Firenze",
+      "indirizzo": "Via della Colonna",
+      "n": "23",
+      "cap": "50121"
+    },
+    "casa": [
+      {
+        "nome": "Bagno",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "1",
+        "tv": "2"
+      },
+      {
+        "nome": "Salotto",
+        "luci": [
+          "1",
+          "0"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Camera da letto",
+        "luci": [
+          "1",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "0"
+      },
+      {
+        "nome": "Cucina",
+        "luci": [
+          "0",
+          "2"
+        ],
+        "lavatrice": "2",
+        "tv": "2"
+      }
+    ],
+    "riscaldamenti": {
+      "stato": "0",
+      "temperatura": "20"
+    }
+  }
+]
