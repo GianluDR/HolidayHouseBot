@@ -7,6 +7,7 @@ const getCodiceCasa = (req,res) => {
     let outputContexts = req.body.queryResult.outputContexts;
 
     let codiceCasa = req.body.queryResult.parameters.CodiceCasa;
+    codiceCasa = codiceCasa.toLowerCase()
     console.log("L'utente ha fornito il codice: "+codiceCasa)
     var trovato = false;
 
