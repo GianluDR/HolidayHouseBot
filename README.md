@@ -1,10 +1,10 @@
-# CasaVacanzaBot
-Il nostro chatbot è un' interfaccia utente conversazionale che ti aiuterà a gestire la tua casa vacanza domotica e cercherà di consigliarti, nel caso tu ne abbia bisogno, ristoranti, bar e altri luoghi di interesse vicini a te.
+# Holiday House Telegram Bot
+Our chatbot is a conversational user interface that will help you manage your home automation vacation home and try to recommend, in case you need it, restaurants, bars and other places of interest near you.
 
-NOTA BENE per testare l'applicazione utilizzare come codice casa aaa001,aaa002,aaa003,aaa004,aaa005
+PLEASE NOTE to test the application use aaa001,aaa002,aaa003,aaa004,aaa005 as the house code.
 
--Una piccola presentazione del caso di studio e delle tecnologie usate è riportata nel file 'CasaVacanzaPresentazione'.
+-A short presentation of the case study and the technologies used is given in the file 'HomeHolidayPresentation'.
 
--L'agente creato con dialogflow è dentro il zip 'CasaVacanzaAgente'
+-The agent created with dialogflow is inside the zipper 'HomeHolidayAgent'
 
--L'applicazione è dentro la cartella bot
+-The application is inside the bot folder
