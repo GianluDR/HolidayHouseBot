@@ -5,12 +5,12 @@ Our goal was to provide users with a virtual assistant that could facilitate the
 
 Technologies Used:
 
-JavaScript: Frontend development and user interface interaction logic.
-Dialogflow: Use of Dialogflow, a development framework for chatbots, to implement the conversational system.
-Geolocation API: Integration of geolocation API to provide accurate information about nearby places of interest.
-JSON for Database: Use of JSON files for database data management and organization.
-Node.js: Implementing the Node.js runtime environment to execute JavaScript code on the server.
-This experience allowed me to gain valuable skills in teamwork, collaboration, and integration of different technologies to create a functional, user-centered product.
+-JavaScript: Frontend development and user interface interaction logic.
+-Dialogflow: Use of Dialogflow, a development framework for chatbots, to implement the conversational system.
+-Geolocation API: Integration of geolocation API to provide accurate information about nearby places of interest.
+-JSON for Database: Use of JSON files for database data management and organization.
+-Node.js: Implementing the Node.js runtime environment to execute JavaScript code on the server.
+-This experience allowed me to gain valuable skills in teamwork, collaboration, and integration of different technologies to create a functional, user-centered product.
 
 PLEASE NOTE to test the application use aaa001,aaa002,aaa003,aaa004,aaa005 as the house code.
 
